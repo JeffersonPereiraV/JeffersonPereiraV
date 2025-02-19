@@ -1,7 +1,7 @@
 <h1>👋 &nbsp;Olá, eu sou o Jefferson, um desenvolvedor full stack apaixonado pelo que faz!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/jefferson-vieira-20789125b"><img src="https://img.shields.io/badge/-Jefferson%20Pereira%20Vieira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:felipemota.rocha@gmail.com"><img src="https://img.shields.io/badge/-felipemota.rocha@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:jeffds126@gmail.com"><img src="https://img.shields.io/badge/-jeffds126@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
