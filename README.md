@@ -17,7 +17,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
@@ -28,4 +27,4 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemotarocha&show_icons=true&theme=dracula)
+![Jefferson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeffersonPereiraV&show_icons=true&theme=dracula)
